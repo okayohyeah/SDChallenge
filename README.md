@@ -6,7 +6,8 @@
 
 * Each challenge awards points upon completion. Your total score will be displayed on your user profile as well as the Leaderboard.
 
-Note: You’ll have to be at the location with your location services enabled in order to complete the challenge!
+*Note: You’ll have to be at the location with your location services enabled in order to complete the challenge!*
+
 ---
 **USING:**
 * React 
