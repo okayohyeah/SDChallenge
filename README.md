@@ -14,7 +14,7 @@
 * JavaScript 
 * Node 
 * Express 
-* Sequeliz 
+* Sequelize 
 * PostgresSQL 
 * HTML
 * CSS 
